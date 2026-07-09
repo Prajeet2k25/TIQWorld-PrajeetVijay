@@ -34,7 +34,7 @@ header{
     padding-bottom:20px;
     margin-bottom:40px;
     flex-wrap:wrap;
-    position:sticky;
+    position:relative;
     top:0;
     background:#ffffff;
     z-index:1000;
@@ -411,7 +411,7 @@ input::placeholder{
     }
 
     nav ul{
-        flex-direction:column;
+        flex-direction:row;
         align-items:center;
         gap:15px;
     }
