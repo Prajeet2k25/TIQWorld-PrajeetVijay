@@ -34,9 +34,7 @@ header{
     padding-bottom:20px;
     margin-bottom:40px;
     flex-wrap:wrap;
-    position:relative;
     background:#ffffff;
-    z-index:1000;
 }
 
 .logo h2{
